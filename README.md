@@ -21,17 +21,22 @@ Databases: MongoDB, PostgreSQL
 
 DevOps / Tools: Git, GitHub, Docker, VS Code, Webpack, RESTful APIs, GraphQL
 
-Other Interests: Web performance optimization, accessibility, unit & integration testing
+- Other Interests: Leveraging AI
 
 
-How to Reach Me
+- How to Reach Me
 
 LinkedIn: linkedin.com/in/eric‑pinto
 
 X (formerly Twitter): @xEricxPinto22
 
 
+
 Feel free to check out my repositories and send feedback.
+
+
 
 Thanks for visiting! 🌱
 — Eric
+
+
