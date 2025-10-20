@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there, I’m Eric Nicholas Pinto 👋
+Computer Science Student • Web Developer • Lifelong Learner
 
-<!--
-**EricNicP/EricNicP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- About Me
 
-Here are some ideas to get you started:
+🎓 Studying Computer Science, passionate about building web applications.
+💡 Passionate about frontend & backend technologies—especially creating clean, responsive, and performant user‑interfaces.
+🚀 Always learning: currently exploring modern technologies.
+🌐 Outside code: I enjoy reading exploring tech content, contributing to open‑source when possible, and tinkering with side‑projects for fun and learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Technologies & Tools
+
+Here are some of the technologies I’ve been working with:
+
+Frontend: HTML5, CSS3 (Flexbox & Grid), JavaScript (ES6+), React, Vue.js
+
+Backend: Node.js, Express, Python (Flask/Django)
+
+Databases: MongoDB, PostgreSQL
+
+DevOps / Tools: Git, GitHub, Docker, VS Code, Webpack, RESTful APIs, GraphQL
+
+Other Interests: Web performance optimization, accessibility, unit & integration testing
+
+
+How to Reach Me
+
+LinkedIn: linkedin.com/in/eric‑pinto
+
+X (formerly Twitter): @xEricxPinto22
+
+
+Feel free to check out my repositories and send feedback.
+
+Thanks for visiting! 🌱
+— Eric
