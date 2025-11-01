@@ -1,6 +1,6 @@
 Hi there, I’m Eric Nicholas Pinto 👋
 
-Computer Science Student • Lifelong Learner
+Computer Engineering Student • Lifelong Learner
 
 
 
