@@ -26,6 +26,8 @@ LinkedIn: linkedin.com/in/eric‑pinto
 
 X (formerly Twitter): @xEricxPinto22
 
+Instagram: https://www.instagram.com/eric.nic.slick?igsh=Y2VrdTAyOW92Mm50
+
 
 
 Feel free to check out my repositories and send feedback.
