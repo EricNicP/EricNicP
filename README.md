@@ -7,7 +7,7 @@ Computer Engineering Student
 
 🎓 Studying Computer Science, passionate about building web applications.
 
-💡 Passionate about frontend & backend technologies—especially creating clean, responsive, and performant user‑interfaces.
+💡 Passionate about frontend & backend technologies—especially creating clean and responsive user‑interfaces.
 
 
 - How to Reach Me
