@@ -19,6 +19,3 @@ X (formerly Twitter): @xEricxPinto22
 
 Feel free to check out my repositories and send feedback.
 
-
-Thanks for visiting!
-— Eric
